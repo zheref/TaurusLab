@@ -1,0 +1,11 @@
+{
+  "name": "tauruslab",
+  "version": "1.0.0",
+  "description": "Testing Node Native Features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Daniel Lozano (@zheref)",
+  "license": "ISC"
+}
